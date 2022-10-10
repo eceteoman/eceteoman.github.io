@@ -1,0 +1,11 @@
+http://www.eceteoman.com
+https://www.eceteoman.com
+http://eceteoman.com
+https://eceteoman.com
+
+
+http://www.eceteoman.com/docs/Teoman_CV.pdf
+https://www.eceteoman.com/docs/Teoman_CV.pdf
+http://eceteoman.com/docs/Teoman_CV.pdf
+https://eceteoman.com/docs/Teoman_CV.pdf
+

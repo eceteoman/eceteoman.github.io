@@ -4,8 +4,12 @@ http://eceteoman.com
 https://eceteoman.com
 
 
-http://www.eceteoman.com/docs/Teoman_CV.pdf
-https://www.eceteoman.com/docs/Teoman_CV.pdf
-http://eceteoman.com/docs/Teoman_CV.pdf
-https://eceteoman.com/docs/Teoman_CV.pdf
+http://www.eceteoman.com/docs/teoman_cv.pdf
+https://www.eceteoman.com/docs/teoman_cv.pdf
+http://eceteoman.com/docs/teoman_cv.pdf
+https://eceteoman.com/docs/teoman_cv.pdf
 
+http://www.eceteoman.com/docs/artofwaiting_jmp.pdf
+https://www.eceteoman.com/docs/artofwaiting_jmp.pdf
+http://eceteoman.com/docs/artofwaiting_jmp.pdf
+https://eceteoman.com/docs/artofwaiting_jmp.pdf
